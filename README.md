@@ -15,7 +15,3 @@
 <p align="center">
   <img alt="Kayera's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kayeradev&show_icons=true&theme=radical">
 </p>
-
-<p align="center">
-  <img width="200" height="100" src="https://i.pinimg.com/originals/42/22/64/422264b208490c8eb268b13c54d85b98.gif">
-</p>
