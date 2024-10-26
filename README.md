@@ -2,7 +2,7 @@
   <img width="300" height="200" src="https://i2.wp.com/www.bestworldevents.com/wp-content/uploads/2020/05/Hello-Gif.gif?resize=498%2C498">
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kayeradev)](https://twitter.com/kayeradev)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayera//)](https://www.linkedin.com/in/kayera/)  [![Gmail Badge](https://img.shields.io/badge/-contact@kayera.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@kayera.uk)](mailto:contact@kayera.uk)  [![Website Badge](https://img.shields.io/badge/-devisha.me-c14438?style=flat-square&logo=Website&logoColor=white&link=https://kayera.uk)](https://kayera.uk)
+[![Twitter Badge](https://img.shields.io/badge/-Kayera-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kayeradev)](https://twitter.com/kayeradev)  [![Linkedin Badge](https://img.shields.io/badge/-Kayera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayera//)](https://www.linkedin.com/in/kayera/)  [![Gmail Badge](https://img.shields.io/badge/-contact@kayera.uk-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@kayera.uk)](mailto:contact@kayera.uk)  [![Website Badge](https://img.shields.io/badge/-devisha.me-c14438?style=flat-square&logo=Website&logoColor=white&link=https://kayera.uk)](https://kayera.uk)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
