@@ -7,7 +7,7 @@
 ### <i>About</i>
 
 -  **Learning :** Cyber Security ⚡ | Open-Source 🔥
--  **Programing Languages :** Python, Java, Skript 💻
+-  **Programming Languages :** Python, Java, Skript 💻
 -  **Languages :** English & Turkish
 -  **Hobbies :** Coding 🔧 & Music 🎧
 -  **Fact :** I code therefore i am. 🔨
