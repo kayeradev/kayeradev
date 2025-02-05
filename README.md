@@ -10,7 +10,9 @@
 -  **Languages :** Python, Java 💻
 -  **Hobbies :** Coding 🔧 & Music 🎧
 -  **Fact :** I code therefore i am. 🔨
--  **Organisation :** Administrator @ **[kayera.uk](https://kayera.uk/)**, Administrator @ **[Foudre](https://foudre.uk/)**, Administrator @ **[Bedwars Türkiye](https://bedwars.tc/)**
+-  **Organisation :** [kayera.uk](https://kayera.uk/), [Foudre](https://foudre.uk/), [Bedwars Türkiye](https://bedwars.tc/)
+
+  ### *Administrator @* ***Foudre Industries, Bedwars Türkiye & Kayera.uk***
 
 <p align="center">
   <img alt="Kayera's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kayeradev&show_icons=true&theme=radical">
