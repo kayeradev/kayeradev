@@ -14,6 +14,9 @@
 
   ### *Administrator @* ***Foudre Industries, Bedwars Türkiye & Kayera.uk***
 
+  ### <i>Stats</i>
+
+
 <p align="center">
   <img alt="Kayera's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kayeradev&show_icons=true&theme=radical">
 </p>
