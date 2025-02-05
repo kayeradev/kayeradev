@@ -12,9 +12,19 @@
 -  **Fact :** I code therefore i am. 🔨
 -  **Organisation :** [kayera.uk](https://kayera.uk/), [Foudre](https://foudre.uk/), [Bedwars Türkiye](https://bedwars.tc/)
 
-  ### *Administrator @* ***Foudre Industries, Bedwars Türkiye & Kayera.uk***
+### <i>Worked Before</i>
 
-  ### <i>Stats</i>
+*Administrator @* ***Foudre Industries***,
+*Administrator @* ***Bedwars Türkiye***,
+*Translator @* ***Grim Anticheat***,
+*Translator @* ***ViaFabricPlus***,
+*Administrator @* ***kayera.uk***,
+*Collabed w/* ***YusufTe***,
+*Collabed w/* ***Tenticra***,
+*Collabed w/* ***Tarık Pasha*** &
+*Collabed w/* ***Efe Oyunda***.
+
+### <i>Github Statistics</i>
 
 
 <p align="center">
