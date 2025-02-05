@@ -8,7 +8,7 @@
 
 -  **Learning :** Cyber Security ⚡ | Open-Source 🔥
 -  **Programming Languages :** Python, Java, Skript 💻
--  **Languages :** English & Turkish
+-  **Languages :** English & Turkish 🌍
 -  **Hobbies :** Coding 🔧 & Music 🎧
 -  **Fact :** I code therefore i am. 🔨
 -  **Organisation :** [kayera.uk](https://kayera.uk/), [Foudre](https://foudre.uk/), [Bedwars Türkiye](https://bedwars.tc/)
