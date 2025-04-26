@@ -16,11 +16,12 @@
 ### <i>Worked Before</i>
 
 *Administrator @* ***Foudre Industries***,
-*Administrator @* ***Bedwars Türkiye***,
+*Translator @* ***Hoplite***,
 *Translator @* ***Grim Anticheat***,
 *Translator @* ***ViaFabricPlus***,
-*Administrator @* ***kayera.uk***,
+*Administrator @* ***kayera.software***,
 *Collabed w/* ***YusufTe***,
+*Collabed w/* ***Algomi***,
 *Collabed w/* ***Tenticra***,
 *Collabed w/* ***Tarık Pasha*** &
 *Collabed w/* ***Efe Oyunda***.
