@@ -2,7 +2,7 @@
   <img width="300" height="200" src="https://i.imgur.com/JMI7u2G.jpeg">
 </p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Kayera-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kayeradev)](https://twitter.com/kayeradev)  [![Linkedin Badge](https://img.shields.io/badge/-Kayera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayera//)](https://www.linkedin.com/in/kayera/)  [![Gmail Badge](https://img.shields.io/badge/-kayerailetisim@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kayerailetisim@hotmail.com)](mailto:kayerailetisim@hotmail.com)  [![Website Badge](https://img.shields.io/badge/-kayera.uk-c14438?style=flat-square&logo=Website&logoColor=white&link=https://kayera.uk)](https://kayera.uk)
+[![Twitter Badge](https://img.shields.io/badge/-Kayera-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/kayeradev)](https://twitter.com/kayeradev)  [![Linkedin Badge](https://img.shields.io/badge/-Kayera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kayera//)](https://www.linkedin.com/in/kayera/)  [![Gmail Badge](https://img.shields.io/badge/-kayerailetisim@hotmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kayerailetisim@hotmail.com)](mailto:kayerailetisim@hotmail.com)  [![Website Badge](https://img.shields.io/badge/-kayera.software-c14438?style=flat-square&logo=Website&logoColor=white&link=https://kayera.software)](https://kayera.software) [![Website Badge](https://img.shields.io/badge/-kayera.tech-c14438?style=flat-square&logo=Website&logoColor=white&link=https://kayera.tech)](https://kayera.tech)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>About</i>
 
@@ -11,7 +11,7 @@
 -  **Languages :** English & Turkish 🌍
 -  **Hobbies :** Coding 🔧 & Music 🎧
 -  **Fact :** I code therefore i am. 🔨
--  **Organisation :** [kayera.uk](https://kayera.uk/), [Foudre](https://foudre.uk/), [Bedwars Türkiye](https://bedwars.tc/)
+-  **Organisation :** [kayera.software](https://kayera.software/), [kayera.uk](https://kayera.uk/), [Foudre](https://foudre.uk/), [Bedwars Türkiye](https://bedwars.tc/)
 
 ### <i>Worked Before</i>
 
