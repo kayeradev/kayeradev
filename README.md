@@ -21,8 +21,6 @@
 *Translator @* ***ViaFabricPlus***,
 *Administrator @* ***kayera.software***,
 *Collabed w/* ***YusufTe***,
-*Collabed w/* ***Algomi***,
-*Collabed w/* ***Tenticra***,
 *Collabed w/* ***Tarık Pasha*** &
 *Collabed w/* ***Efe Oyunda***.
 
