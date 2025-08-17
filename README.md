@@ -10,7 +10,7 @@
 
 *Translator @* ***Hoplite***, ***Grim Anticheat***, ***ViaFabricPlus***,
 
-*Collabed w/* ***YusufTe***, ***Tarık Pasha***, ***Efe Oyunda***
+*Colabed w/* ***YusufTe***, ***Tarık Pasha***, ***Efe Oyunda***
 
 ### <i>Github Statistics</i>
 
