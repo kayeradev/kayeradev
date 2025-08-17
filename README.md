@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>Colabed with</i>
 
-*Administrator @* ***Foudre Industries***, ***Kayera Software***,
+*Administrator @* ***Foudre Industries©***, ***Kayera Software***,
 
 *Translator @* ***Hoplite***, ***Grim Anticheat***, ***ViaFabricPlus***,
 
