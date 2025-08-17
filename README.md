@@ -7,12 +7,19 @@
 ### <i>Colabed with</i>
 
 *Administrator @* ***Foudre Industries***,
+
 *Translator @* ***Hoplite***,
+
 *Translator @* ***Grim Anticheat***,
+
 *Translator @* ***ViaFabricPlus***,
+
 *Administrator @* ***kayera.software***,
+
 *Collabed w/* ***YusufTe***,
+
 *Collabed w/* ***Tarık Pasha*** &
+
 *Collabed w/* ***Efe Oyunda***.
 
 ### <i>Github Statistics</i>
