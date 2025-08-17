@@ -6,21 +6,11 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### <i>Colabed with</i>
 
-*Administrator @* ***Foudre Industries***,
+*Administrator @* ***Foudre Industries***, ***Kayera Software***,
 
-*Translator @* ***Hoplite***,
+*Translator @* ***Hoplite***, ***Grim Anticheat***, ***ViaFabricPlus***,
 
-*Translator @* ***Grim Anticheat***,
-
-*Translator @* ***ViaFabricPlus***,
-
-*Administrator @* ***kayera.software***,
-
-*Collabed w/* ***YusufTe***,
-
-*Collabed w/* ***Tarık Pasha*** &
-
-*Collabed w/* ***Efe Oyunda***.
+*Collabed w/* ***YusufTe***, ***Tarık Pasha***, ***Efe Oyunda***
 
 ### <i>Github Statistics</i>
 
